@@ -1,6 +1,6 @@
 // paste your secret key
 const api = {
-    // key: "9f9189f3ea73cf55b8cc02b2d5091f72", 
+    //-- key: "9f9189f3ea73cf55b8cc02b2d5091f72", 
     key: "ba5370deba03ebdc0306943e7fccf49c", 
     // your secrete key here
     base_url: "https://api.openweathermap.org/data/2.5/"
